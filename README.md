@@ -9,3 +9,6 @@ A basic java file that computes e to set precision, it does not compute to n dig
 
 ## Fibonacci.java
 A basic java file that computes Fibonacci values in four different ways.
+
+## primeFactorization.java
+A basic java file that computes the prime factors of a given number
